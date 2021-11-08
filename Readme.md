@@ -2,13 +2,9 @@
 
 Projeto para realizar o cadastros de planetas.
 
-<br />
-
 ## Objetivo
 
 Realiza o cadastros de planetas e consulta a quantidade de vezes que o planeta cadastrado aparece no filme Star Wars.
-
-<br />
 
 ## Execução
 
