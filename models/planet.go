@@ -11,7 +11,7 @@ type Planet struct {
 	Name           string             `bson:"name" json:"name"`
 	Climate        string             `bson:"climate" json:"climate"`
 	Terrain        string             `bson:"terrain" json:"terrain"`
-	ViewedQuantity int                `bson:"viewed_quantity" json:"viewed_quantity,omitempty"`
+	ViewedQuantity int                `bson:"viewed_quantity" json:"viewed_quantity"`
 }
 
 func (planet *Planet) IsValid() error {
